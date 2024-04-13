@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Cole and I am currently a student at the University of Arizona for computer science. 
+
+-🌱 I’m currently learning C# and C++ at this time, but more focused on C# and the .NET framework
+- 👯 I’m looking to collaborate on anything to help gain knowledge in the software space.
+- 🤔 I’m looking for help with minimal API deployments
+
+Feel free to check out any of my projects and also contribute if you feel inclined!
+
 <!--
 **Cole-Z/Cole-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
