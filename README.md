@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cole and I am currently a student at the University of Arizona for computer science. 
+My name is Cole and I am a Cyber Security Arch/Eng at Honeywell Aerospace 
 
 - 🌱 I’m currently learning C# and C++ at this time, but more focused on C# and the .NET framework
 - 👯 I’m looking to collaborate on anything to help gain knowledge in the software space.
