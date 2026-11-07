@@ -1,24 +1,12 @@
-### Hi there 👋
-
-My name is Cole
-
-- 🌱 I’m currently learning C# and C++ at this time, but more focused on C# and the .NET framework
-- 👯 I’m looking to collaborate on anything to help gain knowledge in the software space.
-- 🤔 I’m looking for help with minimal API deployments
-
-Feel free to check out any of my projects and also contribute if you feel inclined!
-
-<!--
 **Cole-Z/Cole-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on collector atlas, an easy and privacy aware TCG tracking and collection website and AI Assisted TCG grading system (PreSlab)
+- 🌱 I’m currently learning AI Security and Ethics as well as Business Development
+- 👯 I’m looking to collaborate on TCG Software
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: coleazill@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I was an assistant gold pro while in college before breaking into corporate and tech.
+
